@@ -1,2 +1,2 @@
 # First-mine-
-first git Repository
+first git Repository(ok)
